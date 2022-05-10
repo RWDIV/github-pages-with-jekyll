@@ -1,4 +1,4 @@
 ---
-title: "PowerShell Scripting"
-date: 2022-05-10
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 ---
